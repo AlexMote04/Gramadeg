@@ -1,2 +1,2 @@
 # Gramadeg
-Gramadeg is a spelling and grammar correction software for the Welsh Language.
+Gramadeg provides spelling and grammar corrections for text in the Welsh language.
